@@ -1,0 +1,49 @@
+DNS(domain name system)
+Keeps record of every domain name and its IPaddress
+Once we recieve the IPaddress then we send an html request to the website
+https://courses.techpixies.com/my-page
+https--Protocol
+courses--Sub domain
+techpixies.com--Domain 
+my-page--slug
+Domain tells the name of the website that you are visiting
+.com shows what entity or organisation owns that site 
+.com is used for commercial purposes
+.edu is used for educational purposes
+slug helps to understand what particular part of the web page we are on
+--------------------------------------------------------------------------------
+Website is a collection of a webpages
+They need to be saved from web servers and after sending the request to the web server we can access them
+Dynamic Wesite is a website that will change and interact with you in realtime and take you from page to another
+Static Website is one that has web pages stored on the server in the format that is sent to a client web browser
+----------------------------------------------------------------------------------------
+DNS is similar to phonebook it maintains and maps the name of the website and proccess all requests from the user ends
+----------------------------------------------------------------------------------------
+Web Development has 2 parts to it
+i) Front end part--what the user sees when he opens a website
+ii) Back end part--the work being done to present the front end to the user
+all information is stored in the back end
+Javascript is required to insert dynamic elements to the website
+HTML-Hyper Text Markup Language
+mark language-defines a set of rules for encoding documnets in a format that is both human-readable and machine-readable
+Difference between markup language and proggraming language 
+we dont need compiler or inetrpreter or msrkup language
+programming language is giving a set of instructions to the computer
+markup language is helping the computer to present some information
+HTML is not a case sensitive language
+We use html by using tags
+<!DOCTYPEHTML>what type of file is being used and how it should be rendered on the screen
+<HTML> is the tag must be present at the begening and end 
+<Head> is the tag that gives the name of the heading of the page
+<Title> is the tag that gives the name of the page title
+any tag with a foward slash has a closing tag
+most of the tags in HTML has an attribute and provides additional information about it
+<h1> is the biggest font size 
+<h6> is the smallest font size
+they have closing tags
+*empty tags dont need a closing tag
+<p></p> is a paragraph tag
+<br> breaks line
+<hr> horizontal line
+<a href = "link"> content</a> this will link to another page 
+<div> this for dividing the webpages to multiple portions

@@ -1,0 +1,16 @@
+CSS - Cascading Style Sheets
+USed to style the web pages
+Deals with how the elements are displayed
+HTML deals with the structure of the web page
+syntax:
+selector{property:value;property:value}
+property example is color and an example for value is Red
+There are 3 ways to use css
+i)inline
+ii)external
+iii)internal
+inline css is almost extinct due to its lack of effeciency
+disadvantage of internal css is that we need to change it in every page
+internal css will overwrite the external css
+inline css will overwrite the internal css
+3:46:03

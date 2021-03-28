@@ -1,0 +1,51 @@
+HTML - Hyper Text Markup Language
+It is not a programming language
+there are many elements present in this language allowing us to modify text and give 
+structure to the webpages
+we need 2 things for web development
+1) Google Chrome
+2)VSCode
+-----------------------------------------------------
+HTML is white sapce collapsing so it will ignore all extra white spaces
+-----------------------------------------------------
+Lorem is used to generate random words and paragraph there is 1 parameter that determines the amount of words generated
+-----------------------------------------------------
+image element doesnt need a closing element 
+image has 2 parameters one for the adress of the source and the other allowin you to provide an alternate message in case the image cannot be displayed
+-----------------------------------------------------
+comments in html are written using
+<!-- comments -->
+-----------------------------------------------------
+to change the height and width of an image we need to use the attributes present in img function 
+even after changing the height and width the resolution of the image stays the same
+-----------------------------------------------------
+path of the image is given with the help of backslash '/'
+-----------------------------------------------------
+<br> is used to break line to give spaces in html because html is whitespace collapse
+-----------------------------------------------------
+links are created using href it will have a parameter to enter the path of the link and another one to enter the target whether we want to open it in another tab or not 
+-----------------------------------------------------
+we can use ids to call another link back at any other point in time instead of using an internal or external link
+-----------------------------------------------------
+special symbols are used by using '&'symbol and then typing the name of the special special according to the table provided by html
+-----------------------------------------------------
+sup is used to make the character present above and sub is used to make a character present below
+-----------------------------------------------------
+strong is used to make the words bold and em is used to make the words italic
+-----------------------------------------------------
+unordered lists are created using the tag ul and ordered lists are created using the tag ol
+lists are created using the li tag and depending on the type of list it will change
+we can also make lists inside lists in the same manner 
+-----------------------------------------------------
+table is created using 'table' tag rows are created using 'tr' tag and data is input using 'td' tag
+-----------------------------------------------------
+forms are created using 'form' tag 
+label is created using 'label' tag is behaves as a sort of a sub heading before the input
+input is taken in using 'input' tag there can be multiple types of input like name email password 
+radio buttons are commonly used input types and they all need to have the same name in order to be properly functional
+checkbox is another type of input very similar to radio buttons with the difference being that you can select multiple options instead of only one
+select is also a input type which creates a drop down box and allows you to select any value
+text area is an input type allowing text to be written within a specific box
+-----------------------------------------------------
+keyboard shortcut
+go to help and open keyboard shorcuts
